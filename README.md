@@ -1,6 +1,6 @@
 # Periphery Plots
 
-> Kefan Yang data visualizetion class final project code base
+> Kefan Yang data visualization class final project code base
 
 This is an improved version of the _Periphery Plots_
 
