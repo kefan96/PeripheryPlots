@@ -13,4 +13,6 @@ npm start
 
 The interface will be running at `localhost: 8080`
 
-Original github repo from the VISSTA Team: (https://github.com/PrecisionVISSTA/PeripheryPlots)
+Original github repo from the VISSTA Team: https://github.com/PrecisionVISSTA/PeripheryPlots
+
+If you have any question, please contact ky1323@nyu.edu
